@@ -19,7 +19,7 @@ namespace ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "Hola Mundo";
+            textBox1.Text = "Si no luchas por lo que quieres, luego no llores por lo que pierdes.";
         }
     }
 }
